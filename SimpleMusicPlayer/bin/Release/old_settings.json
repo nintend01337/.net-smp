@@ -1,0 +1,48 @@
+/*\***Auto Generated Settings****\23.04.2018 18:12:12 
+*/{
+  "Stations": [
+    {
+      "Name": "Record Trap",
+      "Adress": "http://air2.radiorecord.ru:805/trap_320"
+    },
+    {
+      "Name": "Promo DJ Strange",
+      "Adress": "http://radio.promodj.com:8000/strange-192"
+    },
+    {
+      "Name": "DFM Trap",
+      "Adress": "http://icecast.radiodfm.cdnvideo.ru/st07.mp3"
+    },
+    {
+      "Name": "DNB RADIO",
+      "Adress": "http://source.dnbradio.com:10128/dnbradio_main.mp3"
+    },
+    {
+      "Name": "DNB FM",
+      "Adress": "http://go.dnbfm.ru:8000/play"
+    },
+    {
+      "Name": "RadioEx",
+      "Adress": "http://s2.radioheart.ru:8043/live"
+    },
+    {
+      "Name": "DubStep Light Radio",
+      "Adress": "http://dubstep-light.info:8000/dubsteplight.mp3?1369207841042"
+    },
+    {
+      "Name": "PromoDj DubStep",
+      "Adress": "http://radio.promodj.com:8000/dubstep-192"
+    },
+    {
+      "Name": "Record Deep",
+      "Adress": "http://air.radiorecord.ru:805/deep_320"
+    },
+    {
+      "Name": "DFM DEEP",
+      "Adress": "http://icecast.radiodfm.cdnvideo.ru/st24.mp3"
+    }
+  ],
+  "SelectedIndex": 6,
+  "VolumeByDefault": 1.0,
+  "Autoruned": false
+}

@@ -1,0 +1,109 @@
+/*\***Auto Generated Settings****\ 
+*/{
+  "Stations": [
+    {
+      "Name": "Record Trap",
+      "Adress": "http://air2.radiorecord.ru:805/trap_320"
+    },
+    {
+      "Name": "Promo DJ Strange",
+      "Adress": "http://radio.promodj.com:8000/strange-192"
+    },
+    {
+      "Name": "DFM Trap",
+      "Adress": "http://icecast.radiodfm.cdnvideo.ru/st07.mp3"
+    },
+    {
+      "Name": "DNB RADIO",
+      "Adress": "http://source.dnbradio.com:10128/dnbradio_main.mp3"
+    },
+    {
+      "Name": "DNB FM",
+      "Adress": "http://go.dnbfm.ru:8000/play"
+    },
+    {
+      "Name": "Пиратская станция",
+      "Adress": "http://air2.radiorecord.ru:805/ps_320"
+    },
+    {
+      "Name": "Drop The Bass Radio",
+      "Adress": "http://icecast.dropthebass.ru:8000/stream"
+    },
+    {
+      "Name": "RadioEx",
+      "Adress": "http://s2.radioheart.ru:8043/live"
+    },
+    {
+      "Name": "Record EDM",
+      "Adress": "http://air2.radiorecord.ru:805/club_320"
+    },
+    {
+      "Name": "DubStep Light Radio",
+      "Adress": "http://dubstep-light.info:8000/dubsteplight.mp3?1369207841042"
+    },
+    {
+      "Name": "DFM CLUB",
+      "Adress": "http://icecast.radiodfm.cdnvideo.ru/st01.mp3"
+    },
+    {
+      "Name": "PromoDj DubStep",
+      "Adress": "http://radio.promodj.com:8000/dubstep-192"
+    },
+    {
+      "Name": "Record Deep",
+      "Adress": "http://air.radiorecord.ru:805/deep_320"
+    },
+    {
+      "Name": "DFM DEEP",
+      "Adress": "http://icecast.radiodfm.cdnvideo.ru/st24.mp3"
+    },
+    {
+      "Name": "Auto Bass Fm",
+      "Adress": "http://195.242.219.208:8300/bass"
+    },
+    {
+      "Name": "Record Vip House",
+      "Adress": "http://air.radiorecord.ru:805/vip_320"
+    },
+    {
+      "Name": "NewTone Fm",
+      "Adress": "http://play.newtone.fm/live_02"
+    },
+    {
+      "Name": "Record Electro",
+      "Adress": "http://air.radiorecord.ru:805/elect_320"
+    },
+    {
+      "Name": "Trap FM",
+      "Adress": "http://stream.trap.fm:6002/;"
+    },
+    {
+      "Name": "ElectroSpeed Radio",
+      "Adress": "http://s2.radioboss.fm:8091/stream"
+    },
+    {
+      "Name": "Record Hardstyle",
+      "Adress": "http://online.radiorecord.ru:8102/teo_128"
+    },
+    {
+      "Name": "Record Tropical",
+      "Adress": "http://air.radiorecord.ru:805/trop_320"
+    },
+    {
+      "Name": "Record Ibiza",
+      "Adress": "http://air.radiorecord.ru:805/ibiza_320"
+    },
+    {
+      "Name": "161 FM (DEEP)",
+      "Adress": "http://stream.161fm.ru:8000/256"
+    },
+    {
+      "Name": "Радио Рекорд",
+      "Adress": "http://air.radiorecord.ru:805/rr_320"
+    }
+  ],
+  "SelectedIndex": 24,
+  "VolumeByDefault": 0.24999999999999967,
+  "Autoruned": false
+}/* 
+ Последнее изменение : 18.05.2018 14:06:35 */

@@ -1,0 +1,7 @@
+C:\VS\SimpleMusicPlayer\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.exe.config
+C:\VS\SimpleMusicPlayer\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.exe
+C:\VS\SimpleMusicPlayer\SimpleMusicPlayer\bin\Debug\SimpleMusicPlayer.pdb
+C:\VS\SimpleMusicPlayer\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csprojResolveAssemblyReference.cache
+C:\VS\SimpleMusicPlayer\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.csproj.CoreCompileInputs.cache
+C:\VS\SimpleMusicPlayer\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.exe
+C:\VS\SimpleMusicPlayer\SimpleMusicPlayer\obj\Debug\SimpleMusicPlayer.pdb
